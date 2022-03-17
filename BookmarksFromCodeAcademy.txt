@@ -1,0 +1,4 @@
+Javascript documentation
+https://www.codecademy.com/resources/docs/javascript
+Javascript references
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
